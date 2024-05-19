@@ -1,8 +1,11 @@
 #ifndef TEACHER_H
 #define TEACHER_H
 
-class Teacher
+class Teacher: public Person
 {
+  public:
+
+  private:
 
 };
 
