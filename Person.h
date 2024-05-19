@@ -3,8 +3,9 @@
 
 class Person
 {
+  private:
 
-
+  public:
 
 };
 
