@@ -3,9 +3,9 @@
 
 class Department
 {
-  public:
-
   private:
+
+  public:
 
 };
 
